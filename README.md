@@ -4,4 +4,5 @@ This DANNY ANDREWS exists to learn how to use git branching techniques and handl
 
 ## Setup
 
-1. `$ git clone`
+# lmao
+jersen
